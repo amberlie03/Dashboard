@@ -2,5 +2,3 @@ matplotlib
 pandas
 requests
 voila
-calender
-datetime
